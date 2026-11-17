@@ -1,5 +1,12 @@
 # CodeIgniter 4 Application Starter
 
+## MSME dashboard preview
+
+The home page presents a responsive SMEDC Tarlac dashboard design. Its figures,
+enterprise records, activity, and service match are illustrative only; they are
+not connected to a database or a recommendation engine. The registry search
+filters the sample records in the browser.
+
 ## What is CodeIgniter?
 
 CodeIgniter is a PHP full-stack web framework that is light, fast, flexible and secure.
